@@ -44,6 +44,15 @@
             android:text="@string/nutrition_advice"
             />
 
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/rewardAd"
+            android:text="Get reward"
+            android:textSize="32sp"
+            android:backgroundTint="#9C27B0"
+            />
+
     </LinearLayout>
 
 </ScrollView>
