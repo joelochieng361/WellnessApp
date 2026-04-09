@@ -1,0 +1,57 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.WellnessApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+    </style>
+
+    <style name="Theme.WellnessApp" parent="Base.Theme.WellnessApp" />
+
+    <!-- Health Theme -->
+    <style name="Theme.WellnessApp.Health" parent="Theme.WellnessApp">
+        <item name="android:windowBackground">@color/health_background</item>
+        <item name="colorPrimary">@color/health_primary</item>
+    </style>
+
+    <!-- Exercise Theme -->
+    <style name="Theme.WellnessApp.Exercise" parent="Theme.WellnessApp">
+        <item name="android:windowBackground">@color/exercise_background</item>
+        <item name="colorPrimary">@color/exercise_primary</item>
+    </style>
+
+    <!-- Nutrition Theme -->
+    <style name="Theme.WellnessApp.Nutrition" parent="Theme.WellnessApp">
+        <item name="android:windowBackground">@color/nutrition_background</item>
+        <item name="colorPrimary">@color/nutrition_primary</item>
+    </style>
+
+    <!-- Meditation Theme -->
+    <style name="Theme.WellnessApp.Meditation" parent="Theme.WellnessApp">
+        <item name="android:windowBackground">@color/meditation_background</item>
+        <item name="colorPrimary">@color/meditation_primary</item>
+    </style>
+
+    <!-- Motivation Theme -->
+    <style name="Theme.WellnessApp.Motivation" parent="Theme.WellnessApp">
+        <item name="android:windowBackground">@color/motivation_background</item>
+        <item name="colorPrimary">@color/motivation_primary</item>
+    </style>
+
+    <!-- Weekly Goals Theme -->
+    <style name="Theme.WellnessApp.WeeklyGoals" parent="Theme.WellnessApp">
+        <item name="android:windowBackground">@color/weekly_goals_background</item>
+        <item name="colorPrimary">@color/weekly_goals_primary</item>
+    </style>
+
+    <!-- Progress Theme -->
+    <style name="Theme.WellnessApp.Progress" parent="Theme.WellnessApp">
+        <item name="android:windowBackground">@color/progress_background</item>
+        <item name="colorPrimary">@color/progress_primary</item>
+    </style>
+
+    <!-- Hydration Theme -->
+    <style name="Theme.WellnessApp.Hydration" parent="Theme.WellnessApp">
+        <item name="android:windowBackground">@color/hydration_background</item>
+        <item name="colorPrimary">@color/hydration_primary</item>
+    </style>
+
+</resources>

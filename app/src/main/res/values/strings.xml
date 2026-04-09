@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_name">WellnessApp</string>
+    <string name="app_title">speeders</string>
+    <string name="app_start">Health and wellness app</string>
+    <string name="exercise_course">
+    1. JUMPING JACKS\n
+    - Duration: 60 seconds\n
+    - Benefit: Warm-up &amp; Cardio\n\n
+
+    2. PUSH-UPS\n
+    - Reps: 3 Sets of 12\n
+    - Focus: Chest &amp; Triceps\n\n
+
+    3. PLANK HOLD\n
+    - Duration: 45 seconds\n
+    - Focus: Core Stability\n\n
+
+    4. SQUATS\n
+    - Reps: 3 Sets of 15\n
+    - Focus: Quads &amp; Glutes\n\n
+
+    5. STRETCHING\n
+    - Duration: 2 minutes\n
+    - Tip: Don\'t bounce, just hold.
+</string>
+    <string name="hydration_course">
+    💧 HYDRATION TRACKER\n\n
+
+    1. MORNING BOOST\n
+    - Goal: 500ml upon waking\n
+    - Tip: Add lemon to kickstart metabolism\n\n
+
+    2. WORK INTERVALS\n
+    - Goal: 250ml every 60 mins\n
+    - Tip: Keep a bottle at your desk\n\n
+
+    3. PRE-MEAL GLASS\n
+    - Goal: 1 glass 30 mins before eating\n
+    - Tip: Helps with digestion &amp; portion control\n\n
+
+    4. EVENING WIND-DOWN\n
+    - Goal: Sip slowly, don\'t chug\n
+    - Tip: Limit intake 2 hours before sleep\n\n
+
+    ⏰ DAILY TOTAL GOAL: 2.5 - 3.0 Liters
+</string>
+    <string name="meditation_reset_data">
+    🧘 5-MINUTE MENTAL RESET\n\n
+
+    1. ARRIVAL (60s)\n
+    - Step: Sit upright, feet flat on the floor\n
+    - Tip: Close your eyes; release your jaw\n\n
+
+    2. BOX BREATHING (2m)\n
+    - Inhale: 4 counts\n
+    - Hold: 4 counts\n
+    - Exhale: 4 counts\n
+    - Hold: 4 counts\n\n
+
+    3. SCAN &amp; RELEASE (1m)\n
+    - Step: Notice tension in shoulders &amp; neck\n
+    - Tip: Imagine the tension melting away\n\n
+
+    4. ANCHORING (60s)\n
+    - Step: Focus on the sensation of breathing\n
+    - Tip: If thoughts drift to "Code" or "Tasks", gently return to center\n\n
+    ✨ REPEAT AS NEEDED FOR CLARITY
+</string>
+    <string name="health_recipes">
+    🥗 HEALTHY RECIPES\n\n
+
+    1. QUINOA BOWL\n
+    - Ingredients: Quinoa, Avocado, Chickpeas, Spinach\n
+    - Benefit: High protein and fiber\n\n
+
+    2. GREEN SMOOTHIE\n
+    - Ingredients: Spinach, Banana, Almond Milk, Chia seeds\n
+    - Benefit: Energy boost\n\n
+
+    3. BAKED SALMON\n
+    - Ingredients: Salmon, Lemon, Asparagus, Garlic\n
+    - Benefit: Omega-3 rich
+    </string>
+    <string name="nutrition_advice">
+    🍎 NUTRITION ADVICE\n\n
+
+    1. BALANCED PLATE\n
+    - Tip: Half your plate should be veggies, a quarter protein, and a quarter grains.\n\n
+
+    2. LIMIT SUGAR\n
+    - Tip: Swap sugary drinks for water or herbal tea.\n\n
+
+    3. WHOLE FOODS\n
+    - Tip: Focus on eating foods in their most natural state.
+    </string>
+    <string name="daily_motivation">
+    ✨ DAILY MOTIVATION\n\n
+
+    - "The only bad workout is the one that didn\'t happen."\n
+    - "Health is not about the weight you lose, but the life you gain."\n
+    - "Your body can stand almost anything. It\'s your mind that you have to convince."
+    </string>
+    <string name="weekly_goals">
+    📅 WEEKLY GOALS\n\n
+
+    - Exercise at least 4 times a week.\n
+    - Drink 2L of water daily.\n
+    - Get 7-8 hours of sleep every night.\n
+    - Practice meditation for 10 mins daily.
+    </string>
+    <string name="check_progress">
+    📈 PROGRESS TRACKER\n\n
+
+    - Log your weight weekly.\n
+    - Track your mood after workouts.\n
+    - Monitor your energy levels throughout the day.
+    </string>
+</resources>

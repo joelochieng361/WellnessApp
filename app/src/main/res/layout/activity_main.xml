@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:background="#31ec59"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+    <!-- Below is a text -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/app_start"
+            android:textSize="42sp"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:src="@drawable/image1"
+            />
+
+
+        <!--        below is button number one-->
+        <com.google.android.gms.ads.AdView
+            android:id="@+id/adView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:adSize="BANNER"
+            app:adUnitId="ca-app-pub-3940256099942544/6300978111" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/health_recepies"
+            android:text="🍉Healthy recepies"
+            android:textSize="20sp"
+            android:backgroundTint="#6231"
+            android:layout_margin="15dp"
+            />
+
+<!--        below is button number two-->
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/nutrition_advice"
+            android:text="🍇Nutrition advice"
+            android:textSize="20sp"
+            android:backgroundTint="#6231"
+            android:layout_margin="15dp"
+            />
+
+        <!--        below is button number three-->
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/meditation"
+            android:text="🧘‍♂️Meditation"
+            android:textSize="20sp"
+            android:backgroundTint="#6231"
+            android:layout_margin="15dp"
+            />
+
+        <!--        below is button number four-->
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/hydration_alert"
+            android:text="🥤Hydration alert"
+            android:textSize="20sp"
+            android:backgroundTint="#6231"
+            android:layout_margin="15dp"
+            />
+
+        <!--        below is button number five-->
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/start_exercise"
+            android:text="🏃‍➡️🏃‍➡️start exercise"
+            android:textSize="20sp"
+            android:backgroundTint="#6231"
+            android:layout_margin="15dp"
+            />
+        <!--        below is button number six-->
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/daily_motivarion"
+            android:text="💪Daily motivation"
+            android:textSize="20sp"
+            android:backgroundTint="#6231"
+            android:layout_margin="15dp"
+            />
+
+        <!--        below is button number seven-->
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/weekly_goals"
+            android:text="🎯Weekly goals"
+            android:textSize="20sp"
+            android:backgroundTint="#6231"
+            android:layout_margin="15dp"
+            />
+
+        <!--        below is button number eight-->
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/check_progress"
+            android:text="📊Check progress"
+            android:textSize="20sp"
+            android:backgroundTint="#6231"
+            android:layout_margin="15dp"
+            />
+
+        <!--        below is button number eight-->
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/lernmore"
+            android:text="learn more"/>
+
+
+
+
+    </LinearLayout>
+
+
+
+</ScrollView>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Health Colors -->
+    <color name="health_primary">#2E7D32</color>
+    <color name="health_background">#E8F5E9</color>
+
+    <!-- Exercise Colors -->
+    <color name="exercise_primary">#1565C0</color>
+    <color name="exercise_background">#E3F2FD</color>
+
+    <!-- Nutrition Colors -->
+    <color name="nutrition_primary">#E65100</color>
+    <color name="nutrition_background">#FFF3E0</color>
+
+    <!-- Meditation Colors -->
+    <color name="meditation_primary">#7B1FA2</color>
+    <color name="meditation_background">#F3E5F5</color>
+
+    <!-- Motivation Colors -->
+    <color name="motivation_primary">#FBC02D</color>
+    <color name="motivation_background">#FFFDE7</color>
+
+    <!-- Weekly Goals Colors -->
+    <color name="weekly_goals_primary">#00695C</color>
+    <color name="weekly_goals_background">#E0F2F1</color>
+
+    <!-- Progress Colors -->
+    <color name="progress_primary">#C2185B</color>
+    <color name="progress_background">#FCE4EC</color>
+
+    <!-- Hydration Colors -->
+    <color name="hydration_primary">#884509</color>
+    <color name="hydration_background">#E1F5FE</color>
+</resources>
